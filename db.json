@@ -1,22 +1,22 @@
 [
   {
-    'id': 'hsjo',
-    'name: '조한슬',
-    'age': 30
+    "id": "hsjo",
+    "name": "조한슬",
+    "age": 30
   },
   {
-    'id': 'kbjango',
-    'name: '장권범',
-    'age': 30
+    "id": "kbjang",
+    "name": "장권범",
+    "age": 30
   },
   {
-    'id': 'cwkim',
-    'name: '김창우',
-    'age': 30
+    "id": "cwkim",
+    "name": "김창우",
+    "age": 30
   },
   {
-    'id': 'jcpark',
-    'name: '박진철',
-    'age': 30
+    "id": "jcpark",
+    "name": "박진철",
+    "age": 30
   }
 ]
